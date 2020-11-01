@@ -6,4 +6,6 @@ add branch
 
 use switch
 
-add master
+
+add master and conflict
+
