@@ -5,3 +5,5 @@ test add line
 add branch
 
 use switch
+
+add to conflict
